@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duduetsang (@Duduetsangmolly)
-- 👀 I’m an aspiring UX/UI Designer
+- 👀 I’m an aspiring UI/UX Designer
 - 🎨 Crafting digital experiences that bridge form and function. Trainee at She Can Do, on a mission to revolutionize user interfaces and experiences. 🚀 Marketing Management student, armed with a passion for creativity and an eye for detail   
 - 💞️ I’m looking to collaborate on any project that is UX/UI design related
 - 📫 How to reach me? https://www.linkedin.com/in/duduetsang-maluleke/
