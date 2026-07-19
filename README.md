@@ -17,10 +17,10 @@ Case studies
 [Girleada — Website Redesign](https://github.com/Duduetsangmolly/girleada-case-study)
 Repositioning a women's leadership nonprofit's site to attract sponsors, backed by user interviews and usability testing.
 
-[Packed For Mama — Design System]()
+[Packed For Mama — Design System](https://github.com/Duduetsangmolly/packed-for-mama-case-study)
 Turning a disorganized asset library into a scalable, single-source-of-truth Figma design system.
 
-[Multiplier / Afrisol — Mentorship Platform] ()
+[Multiplier / Afrisol — Mentorship Platform]()
 Designing an AI-matched mentorship platform connecting bursary scholars with alumni, built with Lovable.
 
 Let's connect
