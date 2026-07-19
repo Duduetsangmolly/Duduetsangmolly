@@ -14,10 +14,10 @@ What I work with
 Case studies
 </b>
   
-[Girleada — Website Redesign] (https://github.com/Duduetsangmolly/girleada-case-study)
+[Girleada — Website Redesign](https://github.com/Duduetsangmolly/girleada-case-study)
 Repositioning a women's leadership nonprofit's site to attract sponsors, backed by user interviews and usability testing.
 
-[Packed For Mama — Design System] ()
+[Packed For Mama — Design System]()
 Turning a disorganized asset library into a scalable, single-source-of-truth Figma design system.
 
 [Multiplier / Afrisol — Mentorship Platform] ()
