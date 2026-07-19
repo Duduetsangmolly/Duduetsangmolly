@@ -1,8 +1,32 @@
-- 👋 Hi, I’m Duduetsang (@Duduetsangmolly)
-- 👀 I’m an aspiring UI/UX Designer
-- 🎨 Crafting digital experiences that bridge form and function. Trainee at She Can Do, on a mission to revolutionize user interfaces and experiences. 🚀 Marketing Management student, armed with a passion for creativity and an eye for detail   
-- 💞️ I’m looking to collaborate on any project that is UX/UI design related
-- 📫 How to reach me? https://www.linkedin.com/in/duduetsang-maluleke/
+<b>
+Hi, I'm Duduetsang (Molly) 👋
+</b> 
+  
+UX/UI Designer with a background in Marketing Management, based in Pretoria, South Africa.I design digital experiences that bridge form and function and hold up under real business goals. My work spans app redesigns, design systems, and end-to-end product experiences, built through user research, iteration, and no-code prototyping.
+
+<b> 
+What I work with 
+</b> 
+
+`Figma`, `Canva`,`Lovable`, `Miro`, `HTML/CSS basics`
+
+<b>
+Case studies
+</b>
+  
+[Girleada — Website Redesign] ()
+Repositioning a women's leadership nonprofit's site to attract sponsors, backed by user interviews and usability testing.
+
+[Packed For Mama — Design System] ()
+Turning a disorganized asset library into a scalable, single-source-of-truth Figma design system.
+
+[Multiplier / Afrisol — Mentorship Platform] ()
+Designing an AI-matched mentorship platform connecting bursary scholars with alumni, built with Lovable.
+
+Let's connect
+
+📧 duduetsangm21@gmail.com
+  
 
 <!---
 Duduetsangmolly/Duduetsangmolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
