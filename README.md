@@ -14,7 +14,7 @@ What I work with
 Case studies
 </b>
   
-[Girleada — Website Redesign] ()
+[Girleada — Website Redesign] (https://github.com/Duduetsangmolly/girleada-case-study)
 Repositioning a women's leadership nonprofit's site to attract sponsors, backed by user interviews and usability testing.
 
 [Packed For Mama — Design System] ()
