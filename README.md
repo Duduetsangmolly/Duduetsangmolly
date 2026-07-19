@@ -8,7 +8,7 @@ UX/UI Designer with a background in Marketing Management, based in Pretoria, Sou
 What I work with 
 </b> 
 
-`Figma`, `Canva`,`Lovable`, `Miro`, `HTML/CSS basics`
+`Figma`, `Canva`, `Lovable`, `Miro`, `HTML`, `CSS`, `JS`
 
 <b>
 Case studies
