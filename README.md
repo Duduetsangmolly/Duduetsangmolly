@@ -2,7 +2,7 @@
 Hi, I'm Duduetsang (Molly) 👋
 </b> 
   
-UX/UI Designer with a background in Marketing Management, based in Pretoria, South Africa.I design digital experiences that bridge form and function and hold up under real business goals. My work spans app redesigns, design systems, and end-to-end product experiences, built through user research, iteration, and no-code prototyping.
+UX/UI Designer with a background in Marketing Management, based in Pretoria, South Africa. I design digital experiences that bridge form and function and hold up under real business goals. My work spans app redesigns, design systems, and end-to-end product experiences, built through user research, iteration, and no-code prototyping.
 
 <b> 
 What I work with 
