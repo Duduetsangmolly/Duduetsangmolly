@@ -22,7 +22,7 @@ Repositioning a women's leadership nonprofit's site to attract sponsors, backed 
 
 Turning a disorganized asset library into a scalable, single-source-of-truth Figma design system.
 
-[Multiplier / Afrisol — Mentorship Platform](https://github.com/Duduetsangmolly/multiplier-afrisol-case-study)
+[Multiplier / Afrisol — Mentorship Platform](https://github.com/Duduetsangmolly/multiplier-afrisol-case-study) <P>(COMING SOON)</P>
 
 Designing an AI-matched mentorship platform connecting bursary scholars with alumni.
 
